@@ -1,3 +1,8 @@
+# 🙋‍♂️ whoami
+🎓 I'm a highschool student looking for new opportunites.
+<br>
+🐍 Currently writing Python code.
+
 ## 💻 Tech Stack
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
